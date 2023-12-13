@@ -5,9 +5,9 @@ import (
 	"testing"
 
 	u "github.com/ipfs/go-ipfs-util"
-	ci "github.com/libp2p/go-libp2p/core/crypto"
-	"github.com/libp2p/go-libp2p/core/peer"
-	"github.com/libp2p/go-libp2p/core/test"
+	ci "github.com/chiangmaioneluv/go-libp2p/core/crypto"
+	"github.com/chiangmaioneluv/go-libp2p/core/peer"
+	"github.com/chiangmaioneluv/go-libp2p/core/test"
 )
 
 var badPaths = []string{
